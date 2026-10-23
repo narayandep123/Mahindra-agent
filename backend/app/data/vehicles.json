@@ -1,0 +1,177 @@
+[
+  {
+    "model": "XUV700",
+    "variants": [
+      {
+        "name": "MX Petrol",
+        "indicative_ex_showroom_price": "₹13.99L - ₹15.49L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "2.0L turbo petrol engine",
+          "10.25-inch infotainment screen",
+          "7-seat layout options"
+        ]
+      },
+      {
+        "name": "MX Diesel",
+        "indicative_ex_showroom_price": "₹14.59L - ₹16.29L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "2.2L mHawk diesel engine",
+          "High torque for highway cruising",
+          "ESP and hill hold assist"
+        ]
+      },
+      {
+        "name": "AX3 Petrol",
+        "indicative_ex_showroom_price": "₹16.89L - ₹18.69L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Dual 10.25-inch screen layout",
+          "Connected car features",
+          "Cruise control"
+        ]
+      },
+      {
+        "name": "AX3 Diesel",
+        "indicative_ex_showroom_price": "₹17.59L - ₹19.59L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Diesel manual and automatic choices",
+          "Advanced driver information display",
+          "Rear camera and parking sensors"
+        ]
+      },
+      {
+        "name": "AX5 Petrol",
+        "indicative_ex_showroom_price": "₹18.39L - ₹20.49L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Panoramic skyroof",
+          "Wireless Android Auto and Apple CarPlay",
+          "Push-button start"
+        ]
+      },
+      {
+        "name": "AX5 Diesel",
+        "indicative_ex_showroom_price": "₹18.99L - ₹21.29L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Diesel automatic availability",
+          "Smart door handles",
+          "Multiple drive modes"
+        ]
+      },
+      {
+        "name": "AX7 Petrol",
+        "indicative_ex_showroom_price": "₹21.19L - ₹23.29L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "ADAS level-2 suite",
+          "Sony 12-speaker 3D sound system",
+          "360-degree surround view"
+        ]
+      },
+      {
+        "name": "AX7 Diesel",
+        "indicative_ex_showroom_price": "₹21.89L - ₹24.29L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "mHawk diesel with strong low-end torque",
+          "ADAS level-2 suite",
+          "Blind-view monitor"
+        ]
+      },
+      {
+        "name": "AX7L Petrol",
+        "indicative_ex_showroom_price": "₹23.69L - ₹26.49L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Ventilated front seats",
+          "Electronic parking brake",
+          "Premium leatherette cabin"
+        ]
+      },
+      {
+        "name": "AX7L Diesel",
+        "indicative_ex_showroom_price": "₹24.39L - ₹27.49L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Diesel AT with top-spec comfort package",
+          "Panoramic skyroof and 360 camera",
+          "Advanced safety and connected tech"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Thar",
+    "variants": [
+      {
+        "name": "AX Hard Top",
+        "indicative_ex_showroom_price": "₹13.86L - ₹17.20L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Off-road-ready chassis",
+          "Convertible and hard-top options",
+          "Adventure-ready design"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Scorpio-N",
+    "variants": [
+      {
+        "name": "Z2",
+        "indicative_ex_showroom_price": "₹13.85L - ₹16.25L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Bold SUV stance",
+          "Smart cockpit",
+          "Terrain management" 
+        ]
+      },
+      {
+        "name": "Z8L",
+        "indicative_ex_showroom_price": "₹24.50L - ₹28.50L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Luxury interior",
+          "Adaptive cruise",
+          "Advanced safety package"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "XUV 3XO",
+    "variants": [
+      {
+        "name": "MX1",
+        "indicative_ex_showroom_price": "₹7.99L - ₹9.99L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Compact SUV styling",
+          "Smartphone connectivity",
+          "Efficient turbo petrol"
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Bolero Neo",
+    "variants": [
+      {
+        "name": "N4",
+        "indicative_ex_showroom_price": "₹9.65L - ₹11.90L",
+        "price_note": "indicative, varies by city",
+        "key_features": [
+          "Rugged utility",
+          "High ground clearance",
+          "Reliable diesel engine"
+        ]
+      }
+    ]
+  }
+]
