@@ -54,6 +54,8 @@ The application is designed around a customer journey that can progress through 
 - A Groq API key
 - A Zoho Developer account with a self client configured
 
+For cloud deployment (for example Render), use Python 3.11 for the backend service. This repository includes `backend/runtime.txt` to pin the deploy runtime.
+
 ## Environment setup
 
 From the project root:
