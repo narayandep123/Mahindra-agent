@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://mahindra-agent-backend.onrender.com/api/$1"
+    }
+  ]
+}
